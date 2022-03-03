@@ -1,6 +1,6 @@
 # Let-me-help-you
 
-Esse projeto foi feito usando HTML5 e CSS3, a ideia inicial é criar uma comunidade de tecnologia, onde as pessoas possam tirar suas dúvidas, interagir e conhecer pessoas.
+Esse projeto foi feito usando HTML5 e CSS3, a ideia inicial é criar uma comunidade de tecnologia, onde as pessoas possam tirar suas dúvidas, interagir e fazer networking.
 
 Este é o desing inicial, no momento trabalhei apenas o frontend da página home.
 
